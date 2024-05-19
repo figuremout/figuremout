@@ -1,7 +1,7 @@
-
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 ![views](https://komarev.com/ghpvc/?username=firguremout&color=fabd2f)
 
+# Overview
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- Github stats -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -10,7 +10,7 @@
 
 <!-- Top langs -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figuremout&layout=compact" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figuremout&layout=compact&langs_count=8" />
 </a>
 
 # Pinned
