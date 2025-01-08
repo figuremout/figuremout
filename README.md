@@ -15,7 +15,7 @@
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figuremout&layout=compact&langs_count=8" />
 </a>
 
-# Pinned
+# Repos
 <!-- Extra Pins -->
 <a href="https://github.com/figuremout/autocmd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=figuremout&repo=autocmd" />
@@ -46,4 +46,9 @@
 </a>
 <a href="https://github.com/figuremout/myos">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=figuremout&repo=myos" />
+</a>
+
+# Gists
+<a href="https://gist.github.com/figuremout/cf1f39d269a89c4f3542de2cb0108150">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=cf1f39d269a89c4f3542de2cb0108150" />
 </a>
