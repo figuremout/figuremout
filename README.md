@@ -50,8 +50,9 @@
 <a href="https://github.com/figuremout/justdone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=figuremout&repo=justdone" />
 </a>
-
-
+<a href="https://github.com/figuremout/figuremout.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=figuremout&repo=figuremout.github.io" />
+</a>
 
 
 
