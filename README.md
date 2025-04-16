@@ -17,7 +17,7 @@
 
 # Repos
 <!-- Extra Pins -->
-<a href="https://github.com/figuremout/kvpress/tree/pyramidkv">
+<a href="https://github.com/NVIDIA/kvpress/commits?author=figuremout">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=figuremout&repo=kvpress"/>
 </a>
 <a href="https://github.com/figuremout/autocmd">
