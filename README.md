@@ -15,8 +15,10 @@
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figuremout&layout=compact&langs_count=8" />
 </a>
 
-# Repos
-<!-- Extra Pins -->
+<!--
+
+#Repos
+
 <a href="https://github.com/NVIDIA/kvpress/commits?author=figuremout">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=figuremout&repo=kvpress"/>
 </a>
@@ -68,3 +70,5 @@
 <a href="https://gist.github.com/figuremout/598d7cfb7e610e81881cdad9f09f5a4a">
   <img align="center" src="https://github-readme-stats.vercel.app/api/gist?id=598d7cfb7e610e81881cdad9f09f5a4a" />
 </a>
+
+-->
