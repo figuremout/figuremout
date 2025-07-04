@@ -1,7 +1,6 @@
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-![views](https://komarev.com/ghpvc/?username=firguremout&color=fabd2f)
+**👋 A software engineer here**
 
-# Overview
+<!-- # Overview -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- Add `&theme=gruvbox` to all <img> labels to apply gruvbox theme -->
 
@@ -14,6 +13,10 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figuremout&layout=compact&langs_count=8" />
 </a>
+
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+![views](https://komarev.com/ghpvc/?username=firguremout&color=fabd2f)
+
 
 <!--
 
