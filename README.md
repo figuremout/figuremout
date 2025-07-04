@@ -1,4 +1,4 @@
-**👋 A software engineer here**
+**Just a software engineer here 🤗**
 
 <!-- # Overview -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
